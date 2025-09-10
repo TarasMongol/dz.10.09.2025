@@ -9,7 +9,7 @@ private:
 public:
     void Init(int number, int den) {
         numerat = number;
-        denom = den;
+        denom = denom;
     }
 
     void Print() {
